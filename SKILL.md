@@ -4,7 +4,8 @@ description: Illuminate a person, decision, or option by constructing a delibera
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3566
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - character-foil-construction
 - writing
